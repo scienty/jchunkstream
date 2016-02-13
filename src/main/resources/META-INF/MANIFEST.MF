@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: chunkstream
+Bundle-SymbolicName: org.scienty.lib.chunkstream
+Bundle-Version: 1.0.0.qualifier
+Bundle-RequiredExecutionEnvironment: JavaSE-1.6
+Export-Package: org.scienty.buffer,
+ org.scienty.file.patch,
+ org.scienty.system.util
